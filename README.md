@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Breno Von and I'm a Developer, from Brazil</h2>
 
 ###
 
